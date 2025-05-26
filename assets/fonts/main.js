@@ -1,6 +1,6 @@
 let ww = `
 
-    
+    <div>
 
  <!-- Шапка -->
   <header>
@@ -555,6 +555,8 @@ let ww = `
     </div>
   </footer>
   <!-- ФУТЕР -->
+
+  </div>
 `
 
 document.body.innerHTML += ww
